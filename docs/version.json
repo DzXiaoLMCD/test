@@ -1,0 +1,46 @@
+[
+    {
+        "argus":{
+            "version":"2.0.0",
+            "description":"Some description"
+        },
+        "argus-chart":{
+            "version":"0.5.0",
+            "description":"Some description"
+        },
+        "collectorset-controller":{
+            "version":"2.0.0",
+            "description":"Some description"
+        },
+        "collectorset-controller-chart":{
+            "version":"0.2.0",
+            "description":"Some description"
+        },
+        "collector":{
+            "version":"1.0.0",
+            "description":"Some description"
+        }
+    },
+    {
+        "argus":{
+            "version":"2.1.0",
+            "description":"Some description"
+        },
+        "argus-chart":{
+            "version":"0.5.0",
+            "description":"Some description"
+        },
+        "collectorset-controller":{
+            "version":"2.0.0",
+            "description":"Some description"
+        },
+        "collectorset-controller-chart":{
+            "version":"0.2.0",
+            "description":"Some description"
+        },
+        "collector":{
+            "version":"1.0.0",
+            "description":"Some description"
+        }
+    }
+]
